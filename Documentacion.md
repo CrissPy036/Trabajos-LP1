@@ -4,8 +4,8 @@
 -----------------------------------------
 --------------- Contenido ---------------
 -----------------------------------------
-• Ejercicio 1 -> (HolaMundo.java)
-• Ejercicio 2 -> (SumaProducto.java)
+• [Ejercicio 1](HolaMundo.java)
+• [Ejercicio 2](SumaProducto.java)
 -----------------------------------------
 
 @author -> Cristhian Abel Aguilar González
